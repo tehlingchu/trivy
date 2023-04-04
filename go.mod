@@ -19,7 +19,7 @@ require (
 	github.com/cheggaaa/pb/v3 v3.0.3
 	github.com/containerd/containerd v1.5.7 // indirect
 	github.com/docker/cli v20.10.9+incompatible // indirect
-	github.com/docker/docker v20.10.10+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/fatih/color v1.10.0
 	github.com/go-redis/redis/v8 v8.11.4
